@@ -72,8 +72,4 @@ The project follows a **layered architecture**, consisting of:
    http://localhost:8080/swagger-ui.html
    ```
 
-## License
 
-This project is open-source and available under the [MIT License](LICENSE).
-
-n
