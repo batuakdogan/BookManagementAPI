@@ -59,8 +59,8 @@ The project follows a **layered architecture**, consisting of:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/book-management-api.git
-   cd book-management-api
+   git clone https://github.com/batuakdogan/book-management-api.git
+   cd BookManagement
    ```
 2. Configure database settings in `src/main/resources/application.properties`.
 3. Build and run the project:
