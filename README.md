@@ -10,7 +10,7 @@ The **Book Management API** is a RESTful web service built using **Spring Boot**
 - **Spring Data JPA** (Database Interaction)
 - **Spring Security** (Authentication & Authorization)
 - **Swagger** (API Documentation)
-- **MySQL/PostgreSQL** (Database)
+- **PostgreSQL** (Database)
 - **Maven** (Dependency Management)
 
 ## Project Architecture
@@ -53,7 +53,7 @@ The project follows a **layered architecture**, consisting of:
 
 - Install **Java 17+**
 - Install **Maven**
-- Setup **MySQL/PostgreSQL** and configure `application.properties`
+- Setup **PostgreSQL** and configure `application.properties`
 
 ### Steps to Run
 
